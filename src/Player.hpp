@@ -1,8 +1,8 @@
+#pragma once
 #include <string>
 #include <string_view>
 #include "Creature.hpp"
 #include <iostream>
-#pragma once
 class Player : public Creature
 {
 public:

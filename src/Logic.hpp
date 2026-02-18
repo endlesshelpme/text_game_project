@@ -1,8 +1,8 @@
+#pragma once
 #include "Player.hpp"
 #include "Monster.hpp"
 #include "Creature.hpp"
 #include <string>
-#pragma once
 void setColor(int color);
 
 

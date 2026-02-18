@@ -1,10 +1,10 @@
+#pragma once
 #include "Creature.hpp"
 #include <array>
 #include <cstdlib>
 #include <ctime>
 #include <windows.h>
 #include "ClassesLogic.hpp"
-#pragma once
 
 class Monster : public Creature
 {
